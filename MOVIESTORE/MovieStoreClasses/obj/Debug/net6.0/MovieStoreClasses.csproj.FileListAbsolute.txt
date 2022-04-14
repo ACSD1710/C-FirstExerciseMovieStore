@@ -1,0 +1,12 @@
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieStoreClasses\bin\Debug\net6.0\MovieStoreClasses.deps.json
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieStoreClasses\bin\Debug\net6.0\MovieStoreClasses.dll
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieStoreClasses\bin\Debug\net6.0\MovieStoreClasses.pdb
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieStoreClasses\obj\Debug\net6.0\MovieStoreClasses.csproj.AssemblyReference.cache
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieStoreClasses\obj\Debug\net6.0\MovieStoreClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieStoreClasses\obj\Debug\net6.0\MovieStoreClasses.AssemblyInfoInputs.cache
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieStoreClasses\obj\Debug\net6.0\MovieStoreClasses.AssemblyInfo.cs
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieStoreClasses\obj\Debug\net6.0\MovieStoreClasses.csproj.CoreCompileInputs.cache
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieStoreClasses\obj\Debug\net6.0\MovieStoreClasses.dll
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieStoreClasses\obj\Debug\net6.0\refint\MovieStoreClasses.dll
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieStoreClasses\obj\Debug\net6.0\MovieStoreClasses.pdb
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieStoreClasses\obj\Debug\net6.0\ref\MovieStoreClasses.dll

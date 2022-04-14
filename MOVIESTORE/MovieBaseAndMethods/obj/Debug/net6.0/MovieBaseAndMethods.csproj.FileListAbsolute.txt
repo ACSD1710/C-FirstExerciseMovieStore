@@ -1,0 +1,15 @@
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieBaseAndMethods\bin\Debug\net6.0\MovieBaseAndMethods.deps.json
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieBaseAndMethods\bin\Debug\net6.0\MovieBaseAndMethods.dll
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieBaseAndMethods\bin\Debug\net6.0\MovieBaseAndMethods.pdb
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieBaseAndMethods\bin\Debug\net6.0\MovieStoreClasses.dll
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieBaseAndMethods\bin\Debug\net6.0\MovieStoreClasses.pdb
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieBaseAndMethods\obj\Debug\net6.0\MovieBaseAndMethods.csproj.AssemblyReference.cache
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieBaseAndMethods\obj\Debug\net6.0\MovieBaseAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieBaseAndMethods\obj\Debug\net6.0\MovieBaseAndMethods.AssemblyInfoInputs.cache
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieBaseAndMethods\obj\Debug\net6.0\MovieBaseAndMethods.AssemblyInfo.cs
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieBaseAndMethods\obj\Debug\net6.0\MovieBaseAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieBaseAndMethods\obj\Debug\net6.0\MovieBaseAndMethods.csproj.CopyComplete
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieBaseAndMethods\obj\Debug\net6.0\MovieBaseAndMethods.dll
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieBaseAndMethods\obj\Debug\net6.0\refint\MovieBaseAndMethods.dll
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieBaseAndMethods\obj\Debug\net6.0\MovieBaseAndMethods.pdb
+C:\Users\darko\Desktop\MovieMOVIE2022\MOVIESTORE\MovieBaseAndMethods\obj\Debug\net6.0\ref\MovieBaseAndMethods.dll
